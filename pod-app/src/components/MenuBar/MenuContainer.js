@@ -11,7 +11,7 @@ class MenuContrainer extends Component {
 
         return (
             <Menu>
-                <Menu.Item header>AdaBrain</Menu.Item>
+                <Menu.Item header>01 Pacharanut</Menu.Item>
                 <Menu.Item
                     name='Home'
                     active={activeItem === 'Home'}
